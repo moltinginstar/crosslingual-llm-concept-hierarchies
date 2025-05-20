@@ -1,0 +1,4 @@
+,,p-value,Corrected p-value,Reject H0 at α=0.05?
+1,2,0.59018,0.59018,False
+1,3,0.01186,0.03558,True
+2,3,0.0576,0.1152,False

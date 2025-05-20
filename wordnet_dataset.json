@@ -1,0 +1,1877 @@
+[
+  {
+    "synset": "omw-en-00015388-n",
+    "lemmas": {
+      "en": [
+        "animal",
+        "animate being",
+        "beast",
+        "brute",
+        "creature",
+        "fauna"
+      ],
+      "fr": [
+        "bête",
+        "créature",
+        "faune",
+        "animal",
+        "être"
+      ],
+      "es": [
+        "animal",
+        "bestia",
+        "criatura",
+        "fauna"
+      ],
+      "th": [
+        "สัตว์",
+        "สัตว์ป่า",
+        "สิ่งมีชีวิต",
+        "เดียรัจฉาน",
+        "สัตว์เดียรัจฉาน"
+      ],
+      "zh": [
+        "凶残的人",
+        "动物",
+        "动物群",
+        "生物",
+        "畜生",
+        "野兽"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-01321456-n",
+        "lemmas": {
+          "en": [
+            "adult"
+          ],
+          "fr": [
+            "majeur",
+            "adulte"
+          ],
+          "es": [
+            "adulto"
+          ],
+          "th": [
+            "สัตว์ที่เจริญพันธุ์เต็มที่"
+          ],
+          "zh": [
+            "成体",
+            "成虫",
+            "长成的动物"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-02152881-n",
+        "lemmas": {
+          "en": [
+            "prey",
+            "quarry"
+          ],
+          "fr": [
+            "proie"
+          ],
+          "es": [
+            "presa"
+          ],
+          "th": [
+            "เหยื่อ"
+          ],
+          "zh": [
+            "猎物"
+          ]
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-04524313-n",
+    "lemmas": {
+      "en": [
+        "vehicle"
+      ],
+      "fr": [
+        "véhicule"
+      ],
+      "es": [
+        "vehículo"
+      ],
+      "th": [
+        "ยานพาหนะ"
+      ],
+      "zh": [
+        "车辆"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-03125870-n",
+        "lemmas": {
+          "en": [
+            "craft"
+          ],
+          "fr": [
+            "bateau",
+            "véhicule"
+          ],
+          "es": [
+            "nave"
+          ],
+          "th": [
+            "ยาน"
+          ],
+          "zh": [
+            "航空器",
+            "船",
+            "飞机",
+            "飞船",
+            "飞艇"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-03547229-n",
+            "lemmas": {
+              "en": [
+                "hovercraft",
+                "ground-effect machine"
+              ],
+              "fr": [
+                "hovercraft",
+                "aéroglisseur"
+              ],
+              "es": [
+                "aerodeslizador"
+              ],
+              "th": [
+                "ยานสะเทินน้ำสะเทินบก"
+              ],
+              "zh": [
+                "气垫船",
+                "气垫运载工具"
+              ]
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-03405725-n",
+    "lemmas": {
+      "en": [
+        "furniture",
+        "piece of furniture",
+        "article of furniture"
+      ],
+      "fr": [
+        "meuble"
+      ],
+      "es": [
+        "mobiliario",
+        "mueble"
+      ],
+      "th": [
+        "เครื่องเรือน",
+        "เฟอร์นิเจอร์",
+        "เฟอร์"
+      ],
+      "zh": [
+        "家具"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-02822579-n",
+        "lemmas": {
+          "en": [
+            "bedstead",
+            "bedframe"
+          ],
+          "fr": [
+            "châlit"
+          ],
+          "es": [
+            "armazón de cama",
+            "marco de cama"
+          ],
+          "th": [
+            "โครงเตียง",
+            "โครงเตียงนอน"
+          ],
+          "zh": [
+            "床架",
+            "床的框架"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-02870880-n",
+        "lemmas": {
+          "en": [
+            "bookcase"
+          ],
+          "fr": [
+            "armoire",
+            "bibliothèque"
+          ],
+          "es": [
+            "biblioteca",
+            "estantería"
+          ],
+          "th": [
+            "ชั้นวางหนังสือ",
+            "ตู้หนังสือ"
+          ],
+          "zh": [
+            "书架",
+            "书橱"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-04161981-n",
+        "lemmas": {
+          "en": [
+            "seat"
+          ],
+          "fr": [
+            "chaise",
+            "siège"
+          ],
+          "es": [
+            "asiento"
+          ],
+          "th": [
+            "ที่นั่ง"
+          ],
+          "zh": [
+            "坐椅"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-02884450-n",
+            "lemmas": {
+              "en": [
+                "box",
+                "box seat"
+              ],
+              "fr": [
+                "box",
+                "boîte",
+                "urne",
+                "boite"
+              ],
+              "es": [
+                "asiento de caseta",
+                "caseta"
+              ],
+              "th": [
+                "ที่นั่งของคนขับ",
+                "ที่นั่งคนขับ",
+                "เก้าอี้คนขับ"
+              ],
+              "zh": [
+                "驾驶员席位"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-03001627-n",
+            "lemmas": {
+              "en": [
+                "chair"
+              ],
+              "fr": [
+                "chaise",
+                "fauteuil"
+              ],
+              "es": [
+                "silla"
+              ],
+              "th": [
+                "เก้าอี้",
+                "ม้านั่ง"
+              ],
+              "zh": [
+                "椅子"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-02738535-n",
+                "lemmas": {
+                  "en": [
+                    "armchair"
+                  ],
+                  "fr": [
+                    "fauteuil"
+                  ],
+                  "es": [
+                    "butaca",
+                    "sillón"
+                  ],
+                  "th": [
+                    "เก้าอี้เท้าแขน",
+                    "อาร์มแชร์"
+                  ],
+                  "zh": [
+                    "扶手椅",
+                    "扶手椅子"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-00021265-n",
+    "lemmas": {
+      "en": [
+        "food",
+        "nutrient"
+      ],
+      "fr": [
+        "nutriment",
+        "nourriture",
+        "aliment"
+      ],
+      "es": [
+        "alimento",
+        "comida",
+        "nutriente",
+        "nutrimento",
+        "sustento"
+      ],
+      "th": [
+        "สารอาหาร",
+        "อาหาร"
+      ],
+      "zh": [
+        "滋养物",
+        "营养物",
+        "食品",
+        "食物"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-07881800-n",
+        "lemmas": {
+          "en": [
+            "beverage",
+            "drink",
+            "drinkable",
+            "potable"
+          ],
+          "fr": [
+            "boisson",
+            "breuvage"
+          ],
+          "es": [
+            "bebida"
+          ],
+          "th": [
+            "เครื่องดื่ม"
+          ],
+          "zh": [
+            "饮料"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-07884567-n",
+            "lemmas": {
+              "en": [
+                "alcohol",
+                "alcoholic drink",
+                "alcoholic beverage",
+                "intoxicant",
+                "inebriant"
+              ],
+              "fr": [
+                "boisson alcoolisée",
+                "alcool"
+              ],
+              "es": [
+                "alcohol"
+              ],
+              "th": [
+                "น้ำเมา",
+                "เครื่องดื่มที่มีส่วนผสมของแอลกฮอล์ล",
+                "เครื่องดื่มแอลกอฮอล์",
+                "เหล้า",
+                "แอลกอฮอล์",
+                "เครื่องดองของเมา",
+                "เครื่องดื่มที่มีแอลกอฮอล์"
+              ],
+              "zh": [
+                "酒",
+                "酒精饮料",
+                "醇"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-07891726-n",
+                "lemmas": {
+                  "en": [
+                    "wine",
+                    "vino"
+                  ],
+                  "fr": [
+                    "vin"
+                  ],
+                  "es": [
+                    "vino"
+                  ],
+                  "th": [
+                    "ไวน์"
+                  ],
+                  "zh": [
+                    "葡萄酒",
+                    "酒"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "synset": "omw-en-14582716-n",
+        "lemmas": {
+          "en": [
+            "micronutrient"
+          ],
+          "fr": [
+            "micro-élément"
+          ],
+          "es": [
+            "micronutriente"
+          ],
+          "th": [
+            "สารอาหารไมโคร"
+          ],
+          "zh": [
+            "微量养料",
+            "微量营养元素",
+            "微量营养素"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-14583400-n",
+        "lemmas": {
+          "en": [
+            "chyme"
+          ],
+          "fr": [
+            "chyme"
+          ],
+          "es": [
+            "quimo"
+          ],
+          "th": [
+            "ไคม์"
+          ],
+          "zh": [
+            "半流体的消化物"
+          ]
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-03051540-n",
+    "lemmas": {
+      "en": [
+        "clothing",
+        "article of clothing",
+        "vesture",
+        "wear",
+        "wearable",
+        "habiliment"
+      ],
+      "fr": [
+        "habillement",
+        "vêtement",
+        "tenue"
+      ],
+      "es": [
+        "atavío",
+        "indumentaria",
+        "ropa",
+        "vestimenta",
+        "vestuario"
+      ],
+      "th": [
+        "เครื่องนุ่งห่ม",
+        "เครื่องแต่งกาย",
+        "เสื้อผ้าเครื่องประดับ"
+      ],
+      "zh": [
+        "衣服"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-03419014-n",
+        "lemmas": {
+          "en": [
+            "garment"
+          ],
+          "fr": [
+            "vêtement"
+          ],
+          "es": [
+            "indumento",
+            "prenda",
+            "prenda de vestir",
+            "ropa",
+            "vestido"
+          ],
+          "th": [
+            "ชุด",
+            "เสื้อผ้า"
+          ],
+          "zh": [
+            "衣服"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-02896294-n",
+            "lemmas": {
+              "en": [
+                "breechcloth",
+                "breechclout",
+                "loincloth"
+              ],
+              "fr": [
+                "string",
+                "pagne"
+              ],
+              "es": [
+                "taparrabos"
+              ],
+              "th": [
+                "ผ้าเตี่ยว"
+              ],
+              "zh": [
+                "土人的腰布",
+                "缠腰布",
+                "缠腰带"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-03186199-n",
+                "lemmas": {
+                  "en": [
+                    "dhoti"
+                  ],
+                  "fr": [
+                    "dhûtî",
+                    "dhotî",
+                    "parîdhâna"
+                  ],
+                  "es": [
+                    "dhoti"
+                  ],
+                  "th": [
+                    "ผ้าโดธี"
+                  ],
+                  "zh": [
+                    "印度腰带",
+                    "腰布"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "synset": "omw-en-02922578-n",
+            "lemmas": {
+              "en": [
+                "burqa",
+                "burka"
+              ],
+              "fr": [
+                "burqa",
+                "bourka"
+              ],
+              "es": [
+                "burka"
+              ],
+              "th": [
+                "ชุดบุรกา"
+              ],
+              "zh": [
+                "布嘎",
+                "布尔卡",
+                "波卡",
+                "罩袍"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-03188531-n",
+            "lemmas": {
+              "en": [
+                "diaper",
+                "nappy",
+                "napkin"
+              ],
+              "fr": [
+                "serviette",
+                "couche",
+                "langer"
+              ],
+              "es": [
+                "servilleta"
+              ],
+              "th": [
+                "ผ้าอ้อม",
+                "ผ้าอ้อมเด็ก",
+                "ผ้าอ้อมทารก",
+                "แพมเพอร์"
+              ],
+              "zh": [
+                "尿布"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-03404149-n",
+            "lemmas": {
+              "en": [
+                "fur"
+              ],
+              "fr": [
+                "fourrure"
+              ],
+              "es": [
+                "piel"
+              ],
+              "th": [
+                "เสื้อขนสัตว์",
+                "เสื้อเฟอร์"
+              ],
+              "zh": [
+                "毛皮衣服"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-03502331-n",
+            "lemmas": {
+              "en": [
+                "head covering",
+                "veil"
+              ],
+              "fr": [
+                "voile"
+              ],
+              "es": [
+                "velo"
+              ],
+              "th": [
+                "ผ้าคลุมศีรษะ",
+                "ผ้าคลุมหน้า"
+              ],
+              "zh": [
+                "面纱",
+                "面罩"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-02998841-n",
+                "lemmas": {
+                  "en": [
+                    "chador",
+                    "chadar",
+                    "chaddar",
+                    "chuddar"
+                  ],
+                  "fr": [
+                    "tchador",
+                    "chador"
+                  ],
+                  "es": [
+                    "chador"
+                  ],
+                  "th": [
+                    "ผ้าชาดอร์"
+                  ],
+                  "zh": [
+                    "方披巾"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "synset": "omw-en-03657511-n",
+            "lemmas": {
+              "en": [
+                "leotard",
+                "unitard",
+                "body suit",
+                "cat suit"
+              ],
+              "fr": [
+                "Justaucorps",
+                "justaucorps"
+              ],
+              "es": [
+                "leotardo"
+              ],
+              "th": [
+                "ชุดเสื้อติดกับกางเกง"
+              ],
+              "zh": [
+                "紧身衣",
+                "紧身连衣裤"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-04197391-n",
+            "lemmas": {
+              "en": [
+                "shirt"
+              ],
+              "fr": [
+                "maillot",
+                "chemise"
+              ],
+              "es": [
+                "camisa"
+              ],
+              "th": [
+                "เสื้อเชิ้ต"
+              ],
+              "zh": [
+                "衬衣",
+                "衬衫"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-03595614-n",
+                "lemmas": {
+                  "en": [
+                    "jersey",
+                    "T-shirt",
+                    "tee shirt"
+                  ],
+                  "fr": [
+                    "t-shirt",
+                    "ticheurte",
+                    "Tee-shirt",
+                    "teeshirt",
+                    "T-shirt",
+                    "tee-shirt"
+                  ],
+                  "es": [
+                    "camiseta"
+                  ],
+                  "th": [
+                    "เสื้อยืด",
+                    "ทีเชิ้ต",
+                    "เสื้อทีเชิ้ต",
+                    "ที-เชิ้ต"
+                  ],
+                  "zh": [
+                    "T恤",
+                    "体恤衫",
+                    "圆领汗衫",
+                    "汗衫",
+                    "运动衫"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "synset": "omw-en-04230808-n",
+            "lemmas": {
+              "en": [
+                "skirt"
+              ],
+              "fr": [
+                "jupe"
+              ],
+              "es": [
+                "falda"
+              ],
+              "th": [
+                "กระโปรง"
+              ],
+              "zh": [
+                "女裙",
+                "裙",
+                "裙子"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-03146777-n",
+                "lemmas": {
+                  "en": [
+                    "culotte"
+                  ],
+                  "fr": [
+                    "jupe-culotte",
+                    "culotte"
+                  ],
+                  "es": [
+                    "culote",
+                    "falda pantalón"
+                  ],
+                  "th": [
+                    "กระโปรงกางเกง"
+                  ],
+                  "zh": [
+                    "女用裙裤"
+                  ]
+                },
+                "children": []
+              },
+              {
+                "synset": "omw-en-03534580-n",
+                "lemmas": {
+                  "en": [
+                    "hoopskirt",
+                    "crinoline"
+                  ],
+                  "fr": [
+                    "crinoline"
+                  ],
+                  "es": [
+                    "crinolina",
+                    "miriñaque"
+                  ],
+                  "th": [
+                    "กระโปรงสุ่มไก่"
+                  ],
+                  "zh": [
+                    "圈环裙",
+                    "有裙撑的裙子"
+                  ]
+                },
+                "children": []
+              },
+              {
+                "synset": "omw-en-03770439-n",
+                "lemmas": {
+                  "en": [
+                    "miniskirt",
+                    "mini"
+                  ],
+                  "fr": [
+                    "mini-jupe",
+                    "minijupe"
+                  ],
+                  "es": [
+                    "minifalda"
+                  ],
+                  "th": [
+                    "กระโปรง",
+                    "มินิสเกิร์ต"
+                  ],
+                  "zh": [
+                    "超短裙",
+                    "迷你短裙",
+                    "迷你裙"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "synset": "omw-en-03502509-n",
+        "lemmas": {
+          "en": [
+            "headdress",
+            "headgear"
+          ],
+          "fr": [
+            "couvre-chef"
+          ],
+          "es": [
+            "sombrero"
+          ],
+          "th": [
+            "เครื่องสวมศีรษะ"
+          ],
+          "zh": [
+            "头饰"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-03497657-n",
+            "lemmas": {
+              "en": [
+                "hat",
+                "chapeau",
+                "lid"
+              ],
+              "fr": [
+                "couvercle",
+                "casquette",
+                "chapeau"
+              ],
+              "es": [
+                "sombrero"
+              ],
+              "th": [
+                "หมวกปีก"
+              ],
+              "zh": [
+                "帽子"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-03237416-n",
+                "lemmas": {
+                  "en": [
+                    "dress hat",
+                    "high hat",
+                    "opera hat",
+                    "silk hat",
+                    "stovepipe",
+                    "top hat",
+                    "topper",
+                    "beaver"
+                  ],
+                  "fr": [
+                    "bièvre",
+                    "haut-de-forme",
+                    "castor",
+                    "claque"
+                  ],
+                  "es": [
+                    "galera"
+                  ],
+                  "th": [
+                    "หมวกทรงกระบอก",
+                    "หมวกทรงสูง",
+                    "หมวกที่มีขนยาว"
+                  ],
+                  "zh": [
+                    "大礼帽",
+                    "礼帽",
+                    "高顶丝质礼帽"
+                  ]
+                },
+                "children": []
+              },
+              {
+                "synset": "omw-en-03325941-n",
+                "lemmas": {
+                  "en": [
+                    "fedora",
+                    "felt hat",
+                    "homburg",
+                    "Stetson",
+                    "trilby"
+                  ],
+                  "fr": [
+                    "Borsalino",
+                    "Stetson",
+                    "hombourg",
+                    "feutre",
+                    "borsalino"
+                  ],
+                  "es": [
+                    "fieltro",
+                    "sombrero de fieltro"
+                  ],
+                  "th": [
+                    "หมวกปีกกว้าง",
+                    "หมวกสักหลาดปีกแคบ"
+                  ],
+                  "zh": [
+                    "一种软呢帽",
+                    "呢帽之一种",
+                    "特里碧帽"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-02913152-n",
+    "lemmas": {
+      "en": [
+        "building",
+        "edifice"
+      ],
+      "fr": [
+        "édifice",
+        "maison",
+        "immeuble",
+        "bâtiment"
+      ],
+      "es": [
+        "edificio",
+        "inmueble"
+      ],
+      "th": [
+        "ตึก",
+        "สิ่งปลูกสร้าง",
+        "อาคาร"
+      ],
+      "zh": [
+        "大厦",
+        "大建筑物",
+        "建筑",
+        "建筑物",
+        "房屋",
+        "更常指大而气派的建筑"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-02734725-n",
+        "lemmas": {
+          "en": [
+            "architecture"
+          ],
+          "fr": [
+            "architecture"
+          ],
+          "es": [
+            "arquitectura"
+          ],
+          "th": [
+            "สถาปัตยกรรม"
+          ],
+          "zh": [
+            "建筑物"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-02763604-n",
+        "lemmas": {
+          "en": [
+            "aviary",
+            "bird sanctuary",
+            "volary"
+          ],
+          "fr": [
+            "volière"
+          ],
+          "es": [
+            "aviario"
+          ],
+          "th": [
+            "กรงนกขนาดใหญ่",
+            "กรงสัตว์ปีก",
+            "บริเวณสงวนพันธุ์นก"
+          ],
+          "zh": [
+            "大型鸟舍",
+            "大鸟笼",
+            "鸟舍"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-03054311-n",
+        "lemmas": {
+          "en": [
+            "clubhouse",
+            "club"
+          ],
+          "fr": [
+            "club"
+          ],
+          "es": [
+            "club",
+            "clube"
+          ],
+          "th": [
+            "สโมสร",
+            "คลับ",
+            "คลับเฮาส์"
+          ],
+          "zh": [
+            "会所",
+            "俱乐部会所"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-03544360-n",
+        "lemmas": {
+          "en": [
+            "house"
+          ],
+          "fr": [
+            "maison"
+          ],
+          "es": [
+            "casa"
+          ],
+          "th": [
+            "บ้าน",
+            "เรือน"
+          ],
+          "zh": [
+            "住宅",
+            "家",
+            "房子",
+            "房屋"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-02919792-n",
+            "lemmas": {
+              "en": [
+                "bungalow",
+                "cottage"
+              ],
+              "fr": [
+                "chaumière",
+                "maisonnette"
+              ],
+              "es": [
+                "cabaña"
+              ],
+              "th": [
+                "กระท่อม",
+                "บังกะโล"
+              ],
+              "zh": [
+                "小屋",
+                "村舍"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-03719053-n",
+            "lemmas": {
+              "en": [
+                "mansion",
+                "mansion house",
+                "manse",
+                "hall",
+                "residence"
+              ],
+              "fr": [
+                "immeuble",
+                "domicile",
+                "manoir",
+                "séjour",
+                "résidence"
+              ],
+              "es": [
+                "mansión"
+              ],
+              "th": [
+                "คฤหาสน์",
+                "แมนชั่น"
+              ],
+              "zh": [
+                "公馆",
+                "大厦",
+                "宅第",
+                "府",
+                "甲第"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-03718458-n",
+                "lemmas": {
+                  "en": [
+                    "manor",
+                    "manor house"
+                  ],
+                  "fr": [
+                    "manoir"
+                  ],
+                  "es": [
+                    "casa señorial"
+                  ],
+                  "th": [
+                    "คฤหาสน์"
+                  ],
+                  "zh": [
+                    "庄园"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "synset": "omw-en-03770316-n",
+        "lemmas": {
+          "en": [
+            "ministry"
+          ],
+          "fr": [
+            "ministère"
+          ],
+          "es": [
+            "ministerio"
+          ],
+          "th": [
+            "ตึกกระทรวง",
+            "อาคารสำนักงานกระทรวง"
+          ],
+          "zh": [
+            "部办公楼"
+          ]
+        },
+        "children": []
+      },
+      {
+        "synset": "omw-en-04081281-n",
+        "lemmas": {
+          "en": [
+            "restaurant",
+            "eating house",
+            "eating place",
+            "eatery"
+          ],
+          "fr": [
+            "restaurant"
+          ],
+          "es": [
+            "restaurante"
+          ],
+          "th": [
+            "ร้านอาหาร",
+            "สถานที่ขายอาหาร"
+          ],
+          "zh": [
+            "小饭馆",
+            "餐厅",
+            "餐馆",
+            "饭店",
+            "饭馆"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-02844214-n",
+            "lemmas": {
+              "en": [
+                "bistro"
+              ],
+              "fr": [
+                "bistro",
+                "bistrot",
+                "café"
+              ],
+              "es": [
+                "bistró"
+              ],
+              "th": [
+                "ร้านอาหาร"
+              ],
+              "zh": [
+                "小酒馆"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-02952485-n",
+            "lemmas": {
+              "en": [
+                "canteen"
+              ],
+              "fr": [
+                "cantine"
+              ],
+              "es": [
+                "comedor"
+              ],
+              "th": [
+                "โรงอาหาร"
+              ],
+              "zh": [
+                "小卖部"
+              ]
+            },
+            "children": []
+          },
+          {
+            "synset": "omw-en-03199647-n",
+            "lemmas": {
+              "en": [
+                "diner"
+              ],
+              "fr": [
+                "brasserie"
+              ],
+              "es": [
+                "coche-comedor",
+                "coche restaurante",
+                "diner"
+              ],
+              "th": [
+                "ภัตตาคาร"
+              ],
+              "zh": [
+                "餐车饭店"
+              ]
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "synset": "omw-en-04118635-n",
+        "lemmas": {
+          "en": [
+            "ruin"
+          ],
+          "fr": [
+            "ruine"
+          ],
+          "es": [
+            "ruina"
+          ],
+          "th": [
+            "ซากปรักหักพัง",
+            "ซากอาคาร"
+          ],
+          "zh": [
+            "废墟",
+            "毁灭",
+            "遗址"
+          ]
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-04451818-n",
+    "lemmas": {
+      "en": [
+        "tool"
+      ],
+      "fr": [
+        "instrument",
+        "outil"
+      ],
+      "es": [
+        "herramienta",
+        "instrumento",
+        "utensilio"
+      ],
+      "th": [
+        "เครื่องมือ",
+        "ทูล"
+      ],
+      "zh": [
+        "工具"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-03239726-n",
+        "lemmas": {
+          "en": [
+            "drill"
+          ],
+          "fr": [
+            "perceuse"
+          ],
+          "es": [
+            "taladradora"
+          ],
+          "th": [
+            "สว่าน",
+            "เครื่องเจาะ"
+          ],
+          "zh": [
+            "钻",
+            "钻头"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-02758490-n",
+            "lemmas": {
+              "en": [
+                "auger",
+                "gimlet",
+                "screw auger",
+                "wimble"
+              ],
+              "fr": [
+                "vrille"
+              ],
+              "es": [
+                "barrena",
+                "barreno",
+                "berbiquí",
+                "taladro"
+              ],
+              "th": [
+                "สว่าน",
+                "สว่านมือ"
+              ],
+              "zh": [
+                "手钻",
+                "手锥",
+                "钻孔工具"
+              ]
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-04565375-n",
+    "lemmas": {
+      "en": [
+        "weapon",
+        "arm",
+        "weapon system"
+      ],
+      "fr": [
+        "arme",
+        "armement"
+      ],
+      "es": [
+        "arma"
+      ],
+      "th": [
+        "อาวุธ"
+      ],
+      "zh": [
+        "兵器",
+        "武器",
+        "武装"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-03467984-n",
+        "lemmas": {
+          "en": [
+            "gun"
+          ],
+          "fr": [
+            "fusil",
+            "pistolet"
+          ],
+          "es": [
+            "arma de fuego"
+          ],
+          "th": [
+            "ปืน",
+            "อาวุธปืน",
+            "พระแสงปืน"
+          ],
+          "zh": [
+            "手枪",
+            "枪",
+            "枪炮"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-03343853-n",
+            "lemmas": {
+              "en": [
+                "firearm",
+                "piece",
+                "small-arm"
+              ],
+              "fr": [
+                "part",
+                "feu",
+                "arme à feu"
+              ],
+              "es": [
+                "arma",
+                "arma de fuego"
+              ],
+              "th": [
+                "ปืนพก"
+              ],
+              "zh": [
+                "火器"
+              ]
+            },
+            "children": [
+              {
+                "synset": "omw-en-04090263-n",
+                "lemmas": {
+                  "en": [
+                    "rifle"
+                  ],
+                  "fr": [
+                    "fusil"
+                  ],
+                  "es": [
+                    "fusil",
+                    "rifle"
+                  ],
+                  "th": [
+                    "ปืนไรเฟิล",
+                    "ไรเฟิล"
+                  ],
+                  "zh": [
+                    "来复枪",
+                    "来福枪",
+                    "步枪"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "synset": "omw-en-03624134-n",
+        "lemmas": {
+          "en": [
+            "knife"
+          ],
+          "fr": [
+            "couteau"
+          ],
+          "es": [
+            "cuchillo"
+          ],
+          "th": [
+            "อาวุธมีคม",
+            "ศาสตราวุธ"
+          ],
+          "zh": [
+            "刀"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-03699591-n",
+            "lemmas": {
+              "en": [
+                "machete",
+                "matchet",
+                "panga"
+              ],
+              "fr": [
+                "coupe-coupe",
+                "machette",
+                "coupecoupe"
+              ],
+              "es": [
+                "pterogymnus laniarius"
+              ],
+              "th": [
+                "มีดมาเชเต้"
+              ],
+              "zh": [
+                "大砍刀",
+                "宽刃刀",
+                "弯刀",
+                "短刀之一种"
+              ]
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "synset": "omw-en-04373894-n",
+        "lemmas": {
+          "en": [
+            "sword",
+            "blade",
+            "brand",
+            "steel"
+          ],
+          "fr": [
+            "épée",
+            "acier"
+          ],
+          "es": [
+            "espada"
+          ],
+          "th": [
+            "ดาบ",
+            "กระบี่",
+            "พระขรรค์"
+          ],
+          "zh": [
+            "刀",
+            "剑"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-03302030-n",
+            "lemmas": {
+              "en": [
+                "Excalibur"
+              ],
+              "fr": [
+                "Excalibur"
+              ],
+              "es": [
+                "Excalibur"
+              ],
+              "th": [
+                "ดาบเอกซ์คาลิเบอร์"
+              ],
+              "zh": [
+                "王者之剑",
+                "艾克思开里伯"
+              ]
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-00523513-n",
+    "lemmas": {
+      "en": [
+        "sport",
+        "athletics"
+      ],
+      "fr": [
+        "sport"
+      ],
+      "es": [
+        "deporte"
+      ],
+      "th": [
+        "การกีฬา",
+        "กีฬา"
+      ],
+      "zh": [
+        "体育",
+        "竞技",
+        "运动"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-00446980-n",
+        "lemmas": {
+          "en": [
+            "archery"
+          ],
+          "fr": [
+            "tir à l'arc"
+          ],
+          "es": [
+            "tiro con arco"
+          ],
+          "th": [
+            "กีฬายิงธนู"
+          ],
+          "zh": [
+            "射箭",
+            "箭术"
+          ]
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "synset": "omw-en-07480068-n",
+    "lemmas": {
+      "en": [
+        "emotion"
+      ],
+      "fr": [
+        "émotion"
+      ],
+      "es": [
+        "emoción"
+      ],
+      "th": [
+        "อารมณ์"
+      ],
+      "zh": [
+        "情感",
+        "感情"
+      ]
+    },
+    "children": [
+      {
+        "synset": "omw-en-07519253-n",
+        "lemmas": {
+          "en": [
+            "fear",
+            "fearfulness",
+            "fright"
+          ],
+          "fr": [
+            "peur",
+            "crainte",
+            "épouvante",
+            "effroi"
+          ],
+          "es": [
+            "espanto",
+            "miedo",
+            "terror"
+          ],
+          "th": [
+            "ความกลัว",
+            "ความหวาดกลัว"
+          ],
+          "zh": [
+            "害怕",
+            "恐怖"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-07519773-n",
+            "lemmas": {
+              "en": [
+                "alarm",
+                "dismay",
+                "consternation"
+              ],
+              "fr": [
+                "accablement",
+                "abattement",
+                "consternation",
+                "stupeur",
+                "alarme",
+                "stupéfaction",
+                "prostration",
+                "sidération"
+              ],
+              "es": [
+                "alarma"
+              ],
+              "th": [
+                "ความตระหนกตกใจ",
+                "ความตื่นตระหนก"
+              ],
+              "zh": [
+                "恐怖"
+              ]
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "synset": "omw-en-13985818-n",
+        "lemmas": {
+          "en": [
+            "emotional state",
+            "spirit"
+          ],
+          "fr": [
+            "esprit"
+          ],
+          "es": [
+            "espíritu",
+            "humor",
+            "ánimo"
+          ],
+          "th": [
+            "สภาวะอารมณ์"
+          ],
+          "zh": [
+            "心境",
+            "心情",
+            "情绪",
+            "情绪状态"
+          ]
+        },
+        "children": [
+          {
+            "synset": "omw-en-13986372-n",
+            "lemmas": {
+              "en": [
+                "ecstasy",
+                "rapture",
+                "transport",
+                "exaltation",
+                "raptus"
+              ],
+              "fr": [
+                "transporter",
+                "extase",
+                "transport"
+              ],
+              "es": [
+                "arrebatamiento",
+                "exaltación"
+              ],
+              "th": [
+                "ความปีติยินดี"
+              ],
+              "zh": [
+                "兴高采烈",
+                "欢天喜地",
+                "狂喜"
+              ]
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
