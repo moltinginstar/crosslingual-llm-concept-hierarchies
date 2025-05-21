@@ -1,6 +1,6 @@
-# The representation of concept hierarchies across languages in LLMs
+# The Representation of Concept Hierarchies Across Languages in LLMs
 
-This repository contains the code and data for the paper "The representation of concept hierarchies across languages in large language models".
+This repository contains the code and data for the paper "The Representation of Concept Hierarchies Across Languages in Large Language Models".
 
 ## Setting up the environment
 
